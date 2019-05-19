@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_air_keluar"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/air_keluar" />
+
+    <item
+        android:id="@+id/navigation_sisa_air"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/sisa_air_galon" />
+
+    <item
+        android:id="@+id/navigation_grafik_penggunaan"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/grafik_penggunaan" />
+
+</menu>

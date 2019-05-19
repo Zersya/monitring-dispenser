@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Monitoring Dispenser</string>
+    <string name="air_keluar">Air Keluar</string>
+    <string name="sisa_air_galon">Sisa Air Galon</string>
+    <string name="grafik_penggunaan">Grafik Penggunaan</string>
+    <string name="refresh_galon">Refresh galon</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Waiting for data Update</string>
+</resources>
